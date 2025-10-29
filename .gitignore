@@ -1,0 +1,2 @@
+# Ignore all C++ compiled executable files
+**/*.exe
